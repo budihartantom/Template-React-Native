@@ -14,7 +14,7 @@
     "url": "git+https://github.com/creativetimofficial/argon-react-native.git"
   },
   "dependencies": {
-    "expo": "^34.0.3",
+    "expo": "^55.0.8",
     "expo-asset": "^6.0.0",
     "expo-font": "^6.0.1",
     "galio-framework": "^0.6.1",
